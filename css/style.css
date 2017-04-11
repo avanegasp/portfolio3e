@@ -1,0 +1,108 @@
+  *{
+    margin: 0;
+    padding: 0;
+  }
+
+/*COMIENZO HEADER*/
+  header {
+    width: 100%;
+    background: rgba(255, 0, 0, 0.5);
+    height: 70px;
+    position: fixed;
+    z-index: 10;
+  }
+
+  .width {
+    width: 80%;
+    height: 70px;
+  /*  background: red */
+    margin: auto;
+  }
+
+  .logo{
+    width: 30%;
+    height: 70px;
+/*  background: blue; */
+    float: left;
+    padding:10px;
+    box-sizing: border-box;
+  }
+
+  .logo p a {
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  nav {
+    width: 70%;
+    height: 70px;
+/*  background: olive; */
+    float: left;
+  }
+
+  nav ul li {
+    display: inline;
+  }
+
+  nav ul li a {
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 15px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-family: 'Raleway', sans-serif;
+
+  }
+
+  nav ul li a:hover{
+    color: #444;
+  }
+
+  nav {
+    text-align: right;
+    padding-top: 24px;
+    box-sizing: border-box;
+
+  }
+/*FINAL HEADER*/
+
+/*COMIENZO BANNER*/
+
+  #particles-js{
+    background: url(../img/London.jpg);
+    background-position: center;
+    background-attachment: contain;
+    background-size: cover;
+  }
+/*FINAL BANNER*/
+
+/*COMIENZO LETRAS BANNER*/
+  .width-letter{
+    top: 200px;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+  }
+
+  .slider-letter{
+    width: 80%;
+    margin: auto;
+  }
+
+  .width-slider h1 {
+    color: #F639F6;
+    font-size: 70px;
+  }
+
+  .width-slider p {
+    color: #39F6F0;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    padding:10px 170px 0 170px;
+  }
+/*FINAL BANNER*/
