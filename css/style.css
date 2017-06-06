@@ -136,16 +136,53 @@
 .link2{
   float: left;
   padding: 10px;
+  margin-bottom: 40px;
 }
 .link3{
   float: left;
   padding: 10px;
-
+  margin-bottom: 40px;
 }
 .link4{
   float: left;
   padding: 10px;
+  margin-bottom: 40px;
 
+}
+.link5{
+  float: left;
+  padding: 10px;
+  margin-top: 45px;
+
+}
+.link6{
+  float: left;
+  padding: 10px;
+  margin-top: 45px;
+
+}
+.link7{
+  float: left;
+  padding: 10px;
+  margin-top: 45px;
+
+}
+.link8{
+  float: left;
+  padding: 10px;
+  margin-top: 85px;
+
+}
+.link9{
+  float: left;
+  padding: 10px;
+  margin-top: 85px;
+
+}
+.link10{
+  float: left;
+  padding: 10px;
+  margin-top: 85px;
 }
 /*FINAL BOTONES*/
 
